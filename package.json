@@ -2,7 +2,7 @@
   "name": "goit-js-hw-08-v2",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://deioh.github.io/goit-js-hw-08-v2/",
+  "homepage": "https://deioh.github.io/goit-js-hw-08-v2",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08-v2/"
